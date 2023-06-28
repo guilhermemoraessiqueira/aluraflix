@@ -1,4 +1,4 @@
-package com.aluraflix.aluraflix;
+package br.com.aluraflix;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

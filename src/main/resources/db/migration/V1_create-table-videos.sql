@@ -1,0 +1,8 @@
+CREATE TABLE videos(
+    id BIGINT NOT NULL AUTO_INCREMENT,
+    titulo VARCHAR(30) NOT NULL,
+    descricao VARCHAR(100) NOT NULL,
+    url VARCHAR(100) NOT NULL,
+
+    PRIMARY KEY(ID)
+);
